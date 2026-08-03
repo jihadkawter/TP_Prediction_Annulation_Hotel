@@ -1,0 +1,9 @@
+Modèle,Famille,Version_données,Fichier,Temps_entraînement_secondes,Nombre_variables
+Logistic Regression,Logistic Regression,Original,logistic_regression.joblib,0.885551249999935,552
+Decision Tree - Entropy,Decision Tree - Entropy,Original,decision_tree_entropy.joblib,0.11243399899990436,552
+Decision Tree - Gini,Decision Tree - Gini,Original,decision_tree_gini.joblib,0.10586076599997796,552
+Random Forest,Random Forest,Original,random_forest.joblib,0.7679105789998175,552
+Logistic Regression - PCA,Logistic Regression,PCA,logistic_regression_pca.joblib,0.050715598999886424,8
+Decision Tree - Entropy - PCA,Decision Tree - Entropy,PCA,decision_tree_entropy_pca.joblib,0.2964926289998857,8
+Decision Tree - Gini - PCA,Decision Tree - Gini,PCA,decision_tree_gini_pca.joblib,0.2548232110000299,8
+Random Forest - PCA,Random Forest,PCA,random_forest_pca.joblib,2.5902336789999936,8
